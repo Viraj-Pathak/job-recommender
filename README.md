@@ -2,7 +2,7 @@
 
 A full-stack job recommendation web app built with Next.js 14, featuring a hybrid ML engine that matches candidates to jobs based on skills and experience.
 
-Live demo: [your-app.vercel.app](https://your-app.vercel.app) <!-- replace with your Vercel URL -->
+Live demo: [[your-app.vercel.app](https://your-app.vercel.app)](https://job-recommender-nine.vercel.app/) <!-- replace with your Vercel URL -->
 
 ---
 
@@ -112,7 +112,7 @@ Jobs are ranked by hybrid score and displayed with an expandable breakdown showi
 
 This project is deployed on Vercel with zero configuration. Every push to `main` triggers an automatic redeploy.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/job-recommender)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Viraj-Pathak/job-recommender)
 
 ---
 
